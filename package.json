@@ -25,7 +25,7 @@
       "react-app",
       "react-app/jest"
     ],
-  "homepage": "https://github.com/lenayoo/last-goal"
+    "homepage": "https://lenayoo.github.io/last-goal/"
   },
   "browserslist": {
     "production": [
