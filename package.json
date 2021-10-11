@@ -1,5 +1,4 @@
 {
-  "homepage": "https://lenayoo.github.io/last-goal/",
   "name": "last-goal",
   "version": "0.1.0",
   "private": true,
@@ -25,7 +24,8 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+  "homepage": "https://lenayoo.github.io/last-goal/"
   },
   "browserslist": {
     "production": [
