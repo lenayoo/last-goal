@@ -30,6 +30,7 @@ function App() {
         <NewGoal onAdd={addItem} />
         <ul>
           <li>Wake up @ 4:30</li>
+          <li>please working react!</li>
           {goals.map((goalItem, index ) => (
             <ToDoItem 
               key={index}
